@@ -3,7 +3,7 @@
   connection: local
   vars:
     course: "Ansible"
-    Trainer: "Siva"
+    trainer: "Siva"
   tasks: 
   - name: print variables
     debug:
