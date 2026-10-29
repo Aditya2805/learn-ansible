@@ -4,5 +4,5 @@
   tasks:
   - name: print the vars from cmd
     debug:
-      -msg: "Hi,I am {{ person_name}}"
+      msg: "Hi,I am {{ person_name}}"
   
